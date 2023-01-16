@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammad Rezaie
 - 👀 I’m interested in coding and developing software with Python 
-- 🌱 I’m currently learning Django, Django REST API, Data Structures
+- 🌱 I’m currently learning Django, Django REST API, Data Structures, and Automation Testing
 - 💞️ I’m looking to collaborate on anything Python related
 - 📫 You can reach me by email: msulaymanr@outlook.com
