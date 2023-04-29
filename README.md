@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a food delivery/ordering app**
 
-- 🌱 I’m currently learning **Nodejs, React, and React Native**
+- 🌱 I’m currently learning **Nodejs, Express, React, MongoDB, and React Native**
 
 - 👨‍💻 All of my projects are available at [https://msrezaie.pythonanywhere.com/](https://msrezaie.pythonanywhere.com/)
 
