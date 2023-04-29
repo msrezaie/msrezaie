@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nodejs, React, and React Native**
 
-- 👨‍💻 All of my projects are available at [https://msrezaie.pythonanywhere.com/](https://msrezaie.pythonanywhere.com/)
+- 👨‍💻 Some of my projects are available at [https://msrezaie.pythonanywhere.com/](https://msrezaie.pythonanywhere.com/)
 
 - 📫 How to reach me **msulaymanr@outlook.com**
 
