@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I like competing in fighting game tournaments**
 
-https://www.codewars.com/users/msrezaie/
+<img src="https://www.codewars.com/users/msrezaie/badges/large">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
