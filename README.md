@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
-<h3 align="center">Aspiring Full-stack Developer, love working with JavaScript and Python</h3>
+<h3 align="center">Full-stack Developer, love working with JavaScript and Python</h3>
 
 - 🔭 I’m currently working on **a food delivery/ordering app**
 
