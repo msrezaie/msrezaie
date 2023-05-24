@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nodejs, Express, React, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://msrezaie.pythonanywhere.com/](https://msrezaie.pythonanywhere.com/)
+- 👨‍💻 All of my projects are available at https://msrezaie.up.railway.app/
 
 - 📫 How to reach me **msulaymanr@outlook.com**
 
