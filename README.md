@@ -42,4 +42,42 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
 </p>
 
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Maajon's Kitchen</h3><br/>
+      <a target="_blank" href="https://maajonskitchen.up.railway.app/"><img src="https://media.giphy.com/media/DjLp1gylSy78yv44DD/giphy.gif" width="100%" alt="mjk"></a><br/>
+      <p align="center"><a href="https://github.com/msrezaie/Maajons-Kitchen" target="_blank"><img src="https://img.shields.io/static/v1 label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
+      <a href="https://maajonskitchen.up.railway.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/></a></p>
+      <p><strong>stacks</strong><br>desc</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Textual Cryptography</h3><br/>
+      <a target="_blank" href="https://cryptoden.pythonanywhere.com/"><img src="" width="100%" alt="cryptoden"></a><br/>
+      <p align="center"><a href="https://github.com/SachiGoto/lost-and-found.git" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
+      <a href="https://cryptoden.pythonanywhere.com/" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/></a></p>
+      <p><strong>stacks</strong><br>desc</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">AYAT Clothing Store</h3><br/>
+      <a target="_blank" href="https://ayatclothing.netlify.app/"><img src="" width="100%" alt="ayat"></a><br/>
+      <p align="center"><a href="https://github.com/msrezaie/Maajons-Kitchen" target="_blank"><img src="https://img.shields.io/static/v1 label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
+      <a href="https://ayatclothing.netlify.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/></a></p>
+      <p><strong>stacks</strong><br>desc</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Portfolio</h3><br/>
+      <a target="_blank" href="https://msrezaie.up.railway.app/"><img src="" width="100%" alt="portfolio"></a><br/>
+      <p align="center"><a href="https://github.com/msrezaie/Portfolio" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
+      <a href="https://msrezaie.up.railway.app/" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/></a></p>
+      <p><strong>stacks</strong><br>desc</p>
+    </td>
+  </tr>
+</table>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msrezaie&" alt="msrezaie" /></p>
