@@ -67,7 +67,7 @@
       <h3 align="center">Textual Cryptography</h3><br/>
       <p align="center">
         <a target="_blank" href="https://cryptoden.pythonanywhere.com/">
-          <img src="https://res.cloudinary.com/dfn9bajqj/image/upload/v1685134544/chrome_rwIQz8ydUz_jqzmkc.gif" alt="mjk" width="100%">
+          <img src="https://res.cloudinary.com/dfn9bajqj/image/upload/v1685134544/chrome_rwIQz8ydUz_jqzmkc.gif" alt="cryptoden" width="100%">
         </a>
       </p>
       <p align="center">
@@ -118,4 +118,5 @@
     </td>
   </tr>
 </table>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msrezaie&" alt="msrezaie" /></p>
