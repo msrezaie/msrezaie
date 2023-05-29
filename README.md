@@ -50,7 +50,7 @@
       <h3 align="center">Maajon's Kitchen</h3><br/>
       <p align="center">
         <a target="_blank" href="https://maajonskitchen.up.railway.app/">
-          <img src="![gif](https://i.imgur.com/eFzWjZU.gif)" alt="mjk" width="100%">
+          <img src="![](https://i.imgur.com/eFzWjZU.gif)" alt="mjk" width="100%">
         </a>
       </p>
       <p align="center">
@@ -67,7 +67,7 @@
       <h3 align="center">Textual Cryptography</h3><br/>
       <p align="center">
         <a target="_blank" href="https://cryptoden.pythonanywhere.com/">
-          <img src="![gif](https://i.imgur.com/af3OXeW.gif)" alt="cryptoden" width="100%">
+          ![gif](https://i.imgur.com/af3OXeW.gif)
         </a>
       </p>
       <p align="center">
@@ -86,7 +86,7 @@
       <h3 align="center">AYAT Clothing Store</h3><br/>
       <p align="center">
         <a target="_blank" href="https://ayatclothing.netlify.app/">
-          <img src="![gif](https://i.imgur.com/QVAXK0z.gif)" alt="ayat" width="100%">
+          <img src="[gif](https://i.imgur.com/QVAXK0z.gif)" alt="ayat" width="100%">
         </a>
       </p>
       <p align="center">
@@ -103,7 +103,7 @@
       <h3 align="center">Portfolio</h3><br/>
       <p align="center">
         <a target="_blank" href="https://msrezaie.up.railway.app/">
-          <img src="![gif](https://media.giphy.com/media/DjLp1gylSy78yv44DD/giphy.gif)" alt="portfolio" width="100%">
+          <img src="(https://media.giphy.com/media/DjLp1gylSy78yv44DD/giphy.gif)" alt="portfolio" width="100%">
         </a>
       </p>
       <p align="center">
