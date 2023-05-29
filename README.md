@@ -86,7 +86,7 @@
       <h3 align="center">AYAT Clothing Store</h3><br/>
       <p align="center">
         <a target="_blank" href="https://ayatclothing.netlify.app/">
-          <img src="[gif](https://i.imgur.com/QVAXK0z.gif)" alt="ayat" width="100%">
+          <img src="https://res.cloudinary.com/dtyc44fjq/image/upload/v1684439919/chrome_g7yUbzN75D_s0rbxe.gif" alt="ayat" width="100%">
         </a>
       </p>
       <p align="center">
@@ -103,7 +103,7 @@
       <h3 align="center">Portfolio</h3><br/>
       <p align="center">
         <a target="_blank" href="https://msrezaie.up.railway.app/">
-          <img src="(https://media.giphy.com/media/DjLp1gylSy78yv44DD/giphy.gif)" alt="portfolio" width="100%">
+          <img src="https://media.giphy.com/media/DjLp1gylSy78yv44DD/giphy.gif" alt="portfolio" width="100%">
         </a>
       </p>
       <p align="center">
