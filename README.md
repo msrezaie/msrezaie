@@ -43,41 +43,79 @@
 </p>
 
 <h1 align="center">Projects</h1>
-<table bordercolor="#66b2b2">
+
+<table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Maajon's Kitchen</h3><br/>
-      <a target="_blank" href="https://maajonskitchen.up.railway.app/"><img src="https://i.imgur.com/eFzWjZU.gif" width="100%" alt="mjk"></a><br/>
-      <p align="center"><a href="https://github.com/msrezaie/Maajons-Kitchen" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
-      <a href="https://maajonskitchen.up.railway.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=wordpress&logo-color=white"/></a></p>
-      <p><strong>HTML | CSS | JavaScript | Node.js | MongoDB </strong><br>This full-stack Node.js application provides users with a delightful browsing experience, allowing them to explore the diverse menu of delicious Afghan cuisines offered by Maajon's Kitchen</p>
+      <p align="center">
+        <a target="_blank" href="https://maajonskitchen.up.railway.app/">
+          <img src="https://i.imgur.com/eFzWjZU.gif" alt="mjk" width="100%">
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/msrezaie/Maajons-Kitchen" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://maajonskitchen.up.railway.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=wordpress&logo-color=white"/>
+        </a>
+      </p>
+      <p><strong>HTML | CSS | JavaScript | Node.js | MongoDB</strong><br>This full-stack Node.js application provides users with a delightful browsing experience, allowing them to explore the diverse menu of delicious Afghan cuisines offered by Maajon's Kitchen.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Textual Cryptography</h3><br/>
-      <a target="_blank" href="https://cryptoden.pythonanywhere.com/"><img src="https://i.imgur.com/af3OXeW.gif" width="100%" alt="cryptoden"></a><br/>
-      <p align="center"><a href="https://github.com/msrezaie/textual_cryptography" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
-      <a href="https://cryptoden.pythonanywhere.com/" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=wordpress&logo-color=white"/></a></p>
-      <p><strong>HTML | CSS | JavaScript | Python | Django | SQLite </strong><br>A cryptography app that allows users to encrypt and decrypt text using various encryption algorithms. It uses a modular design that enables the addition of new ciphers with ease</p>
+      <p align="center">
+        <a target="_blank" href="https://cryptoden.pythonanywhere.com/">
+          <img src="https://i.imgur.com/af3OXeW.gif" alt="cryptoden" width="100%">
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/msrezaie/textual_cryptography" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://cryptoden.pythonanywhere.com/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=wordpress&logo-color=white"/>
+        </a>
+      </p>
+      <p><strong>HTML | CSS | JavaScript | Python | Django | SQLite</strong><br>A cryptography app that allows users to encrypt and decrypt text using various encryption algorithms. It uses a modular design that enables the addition of new ciphers with ease.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">AYAT Clothing Store</h3><br/>
-      <a target="_blank" href="https://ayatclothing.netlify.app/"><img src="https://i.imgur.com/QVAXK0z.gif" width="100%" alt="ayat"></a><br/>
-      <p align="center"><a href="https://github.com/msrezaie/Clothing-Fashion-Website" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
-      <a href="https://ayatclothing.netlify.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=wordpress&logo-color=white"/></a></p>
-      <p><strong>HTML | CSS | JavaScript | Bootstrap | PHP </strong><br>A static website built for an Afghan Hijab fashion clothing store located in Afghanistan called AYAT, showcasing various designs of Afghan Hijab fashion clothing</p>
+      <p align="center">
+        <a target="_blank" href="https://ayatclothing.netlify.app/">
+          <img src="https://i.imgur.com/QVAXK0z.gif" alt="ayat" width="100%">
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/msrezaie/Clothing-Fashion-Website" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://ayatclothing.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=wordpress&logo-color=white"/>
+        </a>
+      </p>
+      <p><strong>HTML | CSS | JavaScript | Bootstrap | PHP</strong><br>A static website built for an Afghan Hijab fashion clothing store located in Afghanistan called AYAT, showcasing various designs of Afghan Hijab fashion clothing.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3><br/>
-      <a target="_blank" href="https://msrezaie.up.railway.app/"><img src="https://media.giphy.com/media/DjLp1gylSy78yv44DD/giphy.gif" width="100%" alt="portfolio"></a><br/>
-      <p align="center"><a href="https://github.com/msrezaie/Portfolio" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
-      <a href="https://msrezaie.up.railway.app/" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=wordpress&logo-color=white"/></a></p>
-      <p><strong>HTML | CSS | JavaScript | Node.js | MongoDB </strong><br>This web app is my personal portfolio showcasing my projects, skills, and achievements in an organized and visually appealing manner</p>
+      <p align="center">
+        <a target="_blank" href="https://msrezaie.up.railway.app/">
+          <img src="https://media.giphy.com/media/DjLp1gylSy78yv44DD/giphy.gif" alt="portfolio" width="100%">
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/msrezaie/Portfolio" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://msrezaie.up.railway.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=wordpress&logo-color=white"/>
+        </a>
+      </p>
+      <p><strong>HTML | CSS | JavaScript | Node.js | MongoDB</strong><br>This web app is my personal portfolio showcasing my projects, skills, and achievements in an organized and visually appealing manner.</p>
     </td>
   </tr>
 </table>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msrezaie&" alt="msrezaie" /></p>
