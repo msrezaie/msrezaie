@@ -50,7 +50,7 @@
       <h3 align="center">Maajon's Kitchen</h3><br/>
       <p align="center">
         <a target="_blank" href="https://maajonskitchen.up.railway.app/">
-          <img src="https://res.cloudinary.com/dfn9bajqj/image/upload/v1685322349/mjk_vaspyb.gif" alt="mjk" width="100%">
+          <img src="./Projects Gifs/mjk.gif" alt="mjk" width="100%">
         </a>
       </p>
       <p align="center">
@@ -67,7 +67,7 @@
       <h3 align="center">Textual Cryptography</h3><br/>
       <p align="center">
         <a target="_blank" href="https://cryptoden.pythonanywhere.com/">
-          <img src="https://res.cloudinary.com/dfn9bajqj/image/upload/v1685134544/chrome_rwIQz8ydUz_jqzmkc.gif" alt="cryptoden" width="100%">
+          <img src="./Projects Gifs/crd.gif" alt="cryptoden" width="100%">
         </a>
       </p>
       <p align="center">
@@ -86,7 +86,7 @@
       <h3 align="center">AYAT Clothing Store</h3><br/>
       <p align="center">
         <a target="_blank" href="https://ayatclothing.netlify.app/">
-          <img src="" alt="ayat" width="100%">
+          <img src="./Projects Gifs/aya.gif" alt="ayat" width="100%">
         </a>
       </p>
       <p align="center">
@@ -103,7 +103,7 @@
       <h3 align="center">Portfolio</h3><br/>
       <p align="center">
         <a target="_blank" href="https://msrezaie.up.railway.app/">
-          <img src="https://res.cloudinary.com/dfn9bajqj/image/upload/v1685321695/portfolio_qrrikw.gif" alt="portfolio" width="100%">
+          <img src="./Projects Gifs/ptf.gif" alt="portfolio" width="100%">
         </a>
       </p>
       <p align="center">
