@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **a food delivery/ordering app**
 
-- 🌱 I’m currently learning **Nodejs, Express, React, MongoDB**
+- 🌱 I’m currently working with **Nodejs, Express, React, MongoDB**
 
-- 👨‍💻 All of my projects are available at https://msrezaie.up.railway.app/
+- 👨‍💻 All of my major projects are available at https://msrezaie.up.railway.app/
 
 - 📫 How to reach me **msulaymanr@outlook.com**
 
@@ -16,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/msrezaie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msrezaie" height="30" width="40" /></a>
+<a href="https://twitter.com/mohdsrezaie" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohdsrezaie" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
