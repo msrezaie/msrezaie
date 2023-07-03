@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working with **Nodejs, Express, React, MongoDB**
 
-- 👨‍💻 All of my major projects are available at https://msrezaie.up.railway.app/
+- 👨‍💻 All of my major projects are available at msrezaie.onrender.com
 
 - 📫 How to reach me **msulaymanr@outlook.com**
 
