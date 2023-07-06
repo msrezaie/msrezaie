@@ -49,7 +49,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Maajon's Kitchen</h3><br/>
       <p align="center">
-        <a target="_blank" href="https://maajonskitchen.up.railway.app/">
+        <a target="_blank" href="https://maajonskitchen.onrender.com/">
           <img src="https://github.com/msrezaie/msrezaie/blob/main/project-gifs/mjk.gif" alt="mjk" width="100%">
         </a>
       </p>
@@ -57,7 +57,7 @@
         <a href="https://github.com/msrezaie/Maajons-Kitchen" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>
-        <a href="https://maajonskitchen.up.railway.app/" target="_blank">
+        <a href="https://maajonskitchen.onrender.com/" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=wordpress&logo-color=white"/>
         </a>
       </p>
