@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working with **Nodejs, Express, React, MongoDB**
 
-- 👨‍💻 All of my major projects are available at [msrezaie.onrender.com](https://msrezaie.onrender.com/)
+- 👨‍💻 All of my major projects are available at [msrezaie.onrender.com](https://msrezaie-portfolio.onrender.com/)
 
 - 📫 How to reach me **msulaymanr@outlook.com**
 
@@ -49,7 +49,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Maajon's Kitchen</h3><br/>
       <p align="center">
-        <a target="_blank" href="https://maajonskitchen.onrender.com/">
+        <a target="_blank" href="https://maajonskitchen-live.onrender.com/">
           <img src="https://github.com/msrezaie/msrezaie/blob/main/project-gifs/mjk.gif" alt="mjk" width="100%">
         </a>
       </p>
@@ -57,7 +57,7 @@
         <a href="https://github.com/msrezaie/Maajons-Kitchen" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>
-        <a href="https://maajonskitchen.onrender.com/" target="_blank">
+        <a href="https://maajonskitchen-live.onrender.com/" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=wordpress&logo-color=white"/>
         </a>
       </p>
@@ -102,7 +102,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3><br/>
       <p align="center">
-        <a target="_blank" href="https://msrezaie.onrender.com/">
+        <a target="_blank" href="https://msrezaie-portfolio.onrender.com/">
           <img src="https://github.com/msrezaie/msrezaie/blob/main/project-gifs/ptf.gif" alt="portfolio" width="100%">
         </a>
       </p>
@@ -110,7 +110,7 @@
         <a href="https://github.com/msrezaie/Portfolio" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>
-        <a href="https://msrezaie.onrender.com/" target="_blank">
+        <a href="https://msrezaie-portfolio.onrender.com/" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=wordpress&logo-color=white"/>
         </a>
       </p>
