@@ -118,7 +118,7 @@
       <h3 align="center">Home Services Android App</h3><br/>
       <p align="center">
         <a target="_blank" href="https://github.com/msrezaie/Home-Services-App">
-          <img src="https://user-images.githubusercontent.com/79583632/140404727-61929142-3a19-443e-9d2c-f54e300079a9.mp4" alt="portfolio" width="100%">
+          https://user-images.githubusercontent.com/79583632/140404727-61929142-3a19-443e-9d2c-f54e300079a9.mp4
         </a>
       </p>
       <p align="center">
