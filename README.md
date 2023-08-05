@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
 <h3 align="center">Full-stack Software Engineer, expertise in JavaScript and Python</h3>
 
-- 🔭 I’m currently working on **a food delivery/ordering app**
-
-- 🌱 I’m currently working with **Nodejs, Express, React, MongoDB**
+- 🌱 I’m currently learning and working with **Django, and MERN (Nodejs, Express, React, MongoDB)**
 
 - 👨‍💻 All of my major projects are available at [msrezaie-portfolio.onrender.com](https://msrezaie-portfolio.onrender.com/)
 
 - 📫 How to reach me **msulaymanr@outlook.com**
-
-- ⚡ Fun fact **I occasionally compete in fighting game tournaments**
 
 <img src="https://www.codewars.com/users/msrezaie/badges/large">
 
@@ -115,6 +111,22 @@
         </a>
       </p>
       <p><strong>HTML | CSS | JavaScript | Node.js | MongoDB</strong><br>This web app is my personal portfolio showcasing my projects, skills, and achievements in an organized and visually appealing manner.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Home Services Android App</h3><br/>
+      <p align="center">
+        <a target="_blank" href="https://github.com/msrezaie/Home-Services-App">
+          <img src="https://user-images.githubusercontent.com/79583632/140404727-61929142-3a19-443e-9d2c-f54e300079a9.mp4" alt="portfolio" width="100%">
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/msrezaie/Home-Services-App" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+      </p>
+      <p><strong>Java | Android Studio | SQLite | XML</strong><br>An android application for users to find and request domestic services from clients that have registered and are providing their expertise.</p>
     </td>
   </tr>
 </table>
