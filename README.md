@@ -113,22 +113,6 @@
       <p><strong>HTML | CSS | JavaScript | Node.js | MongoDB</strong><br>This web app is my personal portfolio showcasing my projects, skills, and achievements in an organized and visually appealing manner.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Home Services Android App</h3><br/>
-      <p align="center">
-        <a target="_blank" href="https://github.com/msrezaie/Home-Services-App">
-          https://user-images.githubusercontent.com/79583632/140404727-61929142-3a19-443e-9d2c-f54e300079a9.mp4
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/msrezaie/Home-Services-App" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-        </a>
-      </p>
-      <p><strong>Java | Android Studio | SQLite | XML</strong><br>An android application for users to find and request domestic services from clients that have registered and are providing their expertise.</p>
-    </td>
-  </tr>
 </table>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msrezaie&" alt="msrezaie" /></p>
