@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning and working with **Django, and MERN (Nodejs, Express, React, MongoDB)**
 
-- 👨‍💻 All of my major projects are available at [msrezaie-portfolio.onrender.com](https://msrezaie-portfolio.onrender.com/)
+- 👨‍💻 All of my major projects are available at [msrezaieportfolio.onrender.com](https://msrezaieportfolio.onrender.com/)
 
 - 📫 How to reach me **msulaymanr@outlook.com**
 
@@ -101,7 +101,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3><br/>
       <p align="center">
-        <a target="_blank" href="https://msrezaie-portfolio.onrender.com/">
+        <a target="_blank" href="https://msrezaieportfolio.onrender.com/">
           <img src="https://github.com/msrezaie/msrezaie/blob/main/project-gifs/ptf.gif" alt="portfolio" width="100%">
         </a>
       </p>
