@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
 <h3 align="center">Full-stack Software Engineer, expertise in JavaScript and Python</h3>
 
-- 🌱 I’m currently learning and working with **Django, and MERN (Nodejs, Express, React, MongoDB)**
+- 🌱 I’m currently learning and working with **MERN (Nodejs, Express, React, MongoDB)**
 
 - 👨‍💻 All of my major projects are available at [msrezaieportfolio.onrender.com](https://msrezaieportfolio.onrender.com/)
 
@@ -46,6 +46,23 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Text-Crypt</h3><br/>
+      <p align="center">
+        <a target="_blank" href="https://text-crypt.netlify.app/">
+          <img src="https://github.com/msrezaie/msrezaie/blob/main/project-gifs/tc-readme.png" alt="text-crypt" width="100%">
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/msrezaie/textual-cryptography" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://text-crypt.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=wordpress&logo-color=white"/>
+        </a>
+      </p>
+      <p><strong>Python | MongoDB | Express.js | React.js | Node.js</strong><br>A simple text based cryptography app that allows users to encrypt and decrypt text using various encryption algorithms.</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">Maajon's Kitchen</h3><br/>
       <p align="center">
         <a target="_blank" href="https://maajonskitchen-demo.onrender.com">
@@ -61,23 +78,6 @@
         </a>
       </p>
       <p><strong>HTML | CSS | JavaScript | Node.js | MongoDB</strong><br>This full-stack Node.js application provides users with a delightful browsing experience, allowing them to explore the diverse menu of delicious Afghan cuisines offered by Maajon's Kitchen.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Textual Cryptography</h3><br/>
-      <p align="center">
-        <a target="_blank" href="https://cryptoden.pythonanywhere.com/">
-          <img src="https://github.com/msrezaie/msrezaie/blob/main/project-gifs/crd.gif" alt="cryptoden" width="100%">
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/msrezaie/textual_cryptography" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-        </a>
-        <a href="https://cryptoden.pythonanywhere.com/" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=wordpress&logo-color=white"/>
-        </a>
-      </p>
-      <p><strong>HTML | CSS | JavaScript | Python | Django | SQLite</strong><br>A cryptography app that allows users to encrypt and decrypt text using various encryption algorithms. It uses a modular design that enables the addition of new ciphers with ease.</p>
     </td>
   </tr>
   <tr>
