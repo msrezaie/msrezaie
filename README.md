@@ -60,7 +60,7 @@
           <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=wordpress&logo-color=white"/>
         </a>
       </p>
-      <p><strong>Python | MongoDB | Express.js | React.js | Node.js</strong><br>A simple text based cryptography app that allows users to encrypt and decrypt text using various encryption algorithms.</p>
+      <p><strong>Python | MongoDB | Express.js | React.js | Node.js</strong><br>A full-stack text based cryptography app that allows users to encrypt and decrypt text using various encryption algorithms.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Maajon's Kitchen</h3><br/>
