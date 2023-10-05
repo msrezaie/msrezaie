@@ -57,7 +57,10 @@
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>
         <a href="https://text-crypt.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=wordpress&logo-color=white"/>
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=googlechrome&logo-color=white"/>
+        </a>
+        <a href="https://textcrypt-api.onrender.com/api-docs/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=API&color=10155c&style=plastic&logo=swagger&logo-color=white"/>
         </a>
       </p>
       <p><strong>Python | MongoDB | Express.js | React.js | Node.js</strong><br>A full-stack text based cryptography app that allows users to encrypt and decrypt text using various encryption algorithms.</p>
@@ -74,7 +77,7 @@
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>
         <a href="https://maajonskitchen-demo.onrender.com" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=wordpress&logo-color=white"/>
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=googlechrome&logo-color=white"/>
         </a>
       </p>
       <p><strong>HTML | CSS | JavaScript | Node.js | MongoDB</strong><br>This full-stack Node.js application provides users with a delightful browsing experience, allowing them to explore the diverse menu of delicious Afghan cuisines offered by Maajon's Kitchen.</p>
@@ -93,7 +96,7 @@
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>
         <a href="https://ayatclothing.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=wordpress&logo-color=white"/>
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=googlechrome&logo-color=white"/>
         </a>
       </p>
       <p><strong>HTML | CSS | JavaScript | Bootstrap | PHP</strong><br>A static website built for an Afghan Hijab fashion clothing store located in Afghanistan called AYAT, showcasing various designs of Afghan Hijab fashion clothing.</p>
@@ -110,7 +113,7 @@
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>
         <a href="https://msrezaieportfolio.onrender.com/" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=wordpress&logo-color=white"/>
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=googlechrome&logo-color=white"/>
         </a>
       </p>
       <p><strong>HTML | CSS | JavaScript | Node.js | MongoDB</strong><br>This web app is my personal portfolio showcasing my projects, skills, and achievements in an organized and visually appealing manner.</p>
