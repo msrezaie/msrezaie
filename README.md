@@ -49,7 +49,7 @@
       <h3 align="center">Text-Crypt</h3><br/>
       <p align="center">
         <a target="_blank" href="https://text-crypt.netlify.app/">
-          <img src="https://github.com/msrezaie/msrezaie/blob/main/project-gifs/tc-readme.png" alt="text-crypt" width="100%">
+          <img src="https://github.com/msrezaie/msrezaie/blob/main/project-gifs/tc-demo.gif" alt="text-crypt" width="100%">
         </a>
       </p>
       <p align="center">
