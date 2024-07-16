@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mo</h1>
 <h3 align="center">Full-stack Software Engineer, expertise in JavaScript and Python</h3>
 
-- 🔭 I'm currently working on an app that facilitates social planning and coordination
-
 - 👨‍💻 All of my major projects are available at [msrezaieportfolio.onrender.com](https://msrezaieportfolio.onrender.com/)
 
 - 📫 How to reach me **msulaymanr@outlook.com**
