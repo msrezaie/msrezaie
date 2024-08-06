@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mo</h1>
-<h3 align="center">Full-stack Software Engineer, expertise in JavaScript and Python</h3>
+<h3 align="center">Full-stack Software Engineer</h3>
 
 - 👨‍💻 All of my major projects are available at [msrezaieportfolio.onrender.com](https://msrezaieportfolio.onrender.com/)
 
