@@ -43,6 +43,23 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Talckatoo</h3><br/>
+      <p align="center">
+        <a target="_blank" href="https://msrezaieportfolio.onrender.com/">
+          <img src="https://github.com/msrezaie/msrezaie/blob/main/project-gifs/talc.gif" alt="portfolio" width="100%">
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Talckatoo" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://www.talckatoo.me/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=googlechrome&logo-color=white"/>
+        </a>
+      </p>
+      <p><strong>TypeScript | Socket.io | MongoDB | Express.js | React.js | Node.js</strong><br>A cutting-edge multi-language chat app that effortlessly connects individuals from different linguistic backgrounds.</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">Text-Crypt</h3><br/>
       <p align="center">
         <a target="_blank" href="https://text-crypt.netlify.app/">
@@ -62,6 +79,8 @@
       </p>
       <p><strong>Python | MongoDB | Express.js | React.js | Node.js</strong><br>A full-stack text based cryptography app that allows users to encrypt and decrypt text using various encryption algorithms.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Maajon's Kitchen</h3><br/>
       <p align="center">
@@ -79,8 +98,6 @@
       </p>
       <p><strong>HTML | CSS | JavaScript | Node.js | MongoDB</strong><br>This full-stack Node.js application provides users with a delightful browsing experience, allowing them to explore the diverse menu of delicious Afghan cuisines offered by Maajon's Kitchen.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">AYAT Clothing Store</h3><br/>
       <p align="center">
@@ -97,23 +114,6 @@
         </a>
       </p>
       <p><strong>HTML | CSS | JavaScript | Bootstrap | PHP</strong><br>A static website built for an Afghan Hijab fashion clothing store located in Afghanistan called AYAT, showcasing various designs of Afghan Hijab fashion clothing.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Portfolio</h3><br/>
-      <p align="center">
-        <a target="_blank" href="https://msrezaieportfolio.onrender.com/">
-          <img src="https://github.com/msrezaie/msrezaie/blob/main/project-gifs/ptf.gif" alt="portfolio" width="100%">
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/msrezaie/Portfolio" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-        </a>
-        <a href="https://msrezaieportfolio.onrender.com/" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=10155c&style=plastic&logo=googlechrome&logo-color=white"/>
-        </a>
-      </p>
-      <p><strong>HTML | CSS | JavaScript | Node.js | MongoDB</strong><br>This web app is my personal portfolio showcasing my projects, skills, and achievements in an organized and visually appealing manner.</p>
     </td>
   </tr>
 </table>
